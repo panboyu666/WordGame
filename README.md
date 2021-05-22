@@ -9,4 +9,4 @@ english資料夾可新增你要的woed對應中文
 
 如果顯示出亂碼 請把word的記事本改為ANSI編碼
 
-youtube演示:
+有使用第三方API jlayer 完成mp3撥放
