@@ -1,0 +1,20 @@
+多邊形-polygon
+塗料畫筆-paint
+成分-Component
+畫布-Canvas
+基本的-Basic
+畫 鐘 撫摸 划-stroke
+已充滿-fill
+圓形-oval
+坡度-gradient
+首選-preferred
+尺寸-dimension
+地點-location
+小服務程序-servlet
+豆-bean
+存在-exists
+寫入-writer
+儲存-store
+解析-parseInt
+常量-value
+整數-Integer

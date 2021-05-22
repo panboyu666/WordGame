@@ -1,0 +1,14 @@
+時間-time
+早晨-morn
+中午-noon
+正午-midday
+下午-afternoon
+晚上-night
+半夜-midnight
+黃昏-twilight
+日出-sunrise
+日落-sunset
+天黑以後-after dark
+黎明-dawn
+鐘-clock
+時-hours

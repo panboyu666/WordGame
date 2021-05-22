@@ -1,0 +1,23 @@
+方向-direction
+東-east
+西-west
+南-south
+北-north
+中-center
+左邊-left
+右邊-right
+前進-go forward
+後退-back
+前面-front
+後面-behind
+下一個/旁邊-next
+對面-opposite
+角落-corner
+進到裡面-into
+在裡面-inside
+從裡面出來-out of
+在外面-outside
+通過 穿越-through
+橫過-across
+周圍 圍繞-around
+沿著-along
